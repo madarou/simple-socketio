@@ -1,0 +1,9 @@
+{
+  "name": "simple-socketio",
+  "version": "1.0.0",
+  "description": "simple socketio",
+  "main": "index.js",
+  "author": "darou",
+  "license": "MIT",
+  "repository": "https://github.com/madarou/simple-socketio.git"
+}
